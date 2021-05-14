@@ -43,9 +43,6 @@ body.b {
   font-size: 1.5em;
   animation: fadein 1s;
   -webkit-animation: fadein 1s;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
   background-color: #101010;
   color: #bbbbbb;
 
